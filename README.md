@@ -14,7 +14,7 @@
 
 НКФ:
 
-*   [Немецкая классическая философия, Резвых П.В.](https://vk.com/wall-201515597_15) Аудио VK + Yandex.Disk, 19 лекций
+*   [Немецкая классическая философия, Резвых П.В.](https://vk.com/wall-201515597_15) Yandex.Disk + Аудио VK, 19 лекций
 *   [Онлайн-лекции для РХГА (от Фихте до половины Шеллинга), Резвых П.В.](https://www.youtube.com/playlist?list=PLp8inyhIa81BnIh534jBdPD1_c_yl93Tv), Youtube, 8 лекций
 *   [НКФ, Васильев Teach-in](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAhxK1YOQThJTrhJtmZwKnM), Youtube, 13 лекций
 
