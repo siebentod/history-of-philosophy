@@ -63,6 +63,26 @@
 
 Большинство аудиолекций также можно найти на рутрекере.
 
+## Ютуб-каналы и другое
+
+*   Популярные лекции по истории философии: Хаустов, Баумейстер, Зубов, Дугин, Рябов
+*   [Сигнум](https://www.youtube.com/c/сигнум). Приглашенные философы читают лекции по своей специальности
+*   [Philosophy Overdose](https://www.youtube.com/channel/UC7q-GcHyjCHkTpXCUTLzy7Q/). Популярный англоязычный канал о философии
+*   [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria/). Недлинные ролики по самым разным темам, есть также полноценные лекции. Видео очень много, рассказывает просто, особенно хорошие по Витгенштейну
+*   [Insolarance Cult](https://www.youtube.com/c/InsolaranceCult). Интервью с разными гостями, в основном по современной философии
+*   [Zagovor Iskusstva](https://www.youtube.com/c/ZagovorIskusstva). Тематические стримы от кандидата философских наук, с гостями и без
+*   [Открытый Факультет Философии](https://www.youtube.com/channel/UCtxFIV0JLYxYm6tTKpJQlXQ). Курсы лекций на достаточно специализированные темы
+*   [Лакан-Ликбез Смулянского](https://lacan-likbez.com). Очень много лекций по психоанализу. Есть также в аудиоформате в [официальном паблике](https://vk.com/alexsmul)
+*   [Московский центр изучения сознания](https://www.youtube.com/channel/UCei3l9jF1JnpuGp9ok855pg). Эпистемология, философия сознания и прочая современная аналитическая философия
+*   [Институт Философии РАН](https://www.youtube.com/channel/UCcUH7xQN2OTa4efXWtKkzVw). Трансляции, круглые столы, семинары. Бывает что-то интересное и что-то очень специализированное научное
+*   [СПб Платоновское философское общество](https://www.youtube.com/channel/UC9vYYO41KVHA4sL7mrk8fJQ). Примерно то же, что предыдущее, но ограниченное Античностью
+*   [Канал Е.В. Косиловой](https://www.youtube.com/channel/UCDRRm5ol-OwoUv6hnW7ghdw/), доцента МГУ, есть курсы по гносеологии и философии математики. Также есть много её лекций на рутрекере
+*   [Канал с лекциями и беседами современных российских философов](https://www.youtube.com/channel/UC2UbJK23wPYafuFbm8hw6ug)
+*   [Hermitix Podcast](https://www.youtube.com/channel/</li>UCIVH4QDljPUKZHqgER3GGgA). Всякая магия на английском, беседы с гостями-специалистами
+*   [Библиотека Достоевского](https://www.youtube.com/channel/UCsWlatWZG_yGqghYYai2DEQ/videos). Всякая гуманитарщина, в том числе и философия
+*   [Teach-in](https://www.youtube.com/c/NAUKA0/playlists?view=50&shelf_id=8). Лекции преподавателей МГУ. Не только по философии, по ссылке плейлисты по философии
+*   Сайт [Magisteria.ru](https://magisteria.ru/). Лекции по гуманитарщине, есть несколько курсов лекций по философии
+
 </main>
 
 </div>
