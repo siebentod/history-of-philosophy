@@ -16,7 +16,7 @@
 
 *   [Резвых П.В. Немецкая классическая философия](https://vk.com/wall-201515597_15) Yandex.Disk + Аудио VK, 19 лекций
 *   [Резвых П.В. Онлайн-лекции для РХГА (от Фихте до половины Шеллинга)](https://www.youtube.com/playlist?list=PLp8inyhIa81BnIh534jBdPD1_c_yl93Tv), Youtube, 8 лекций
-*   [Васильев НКФ (Teach-in)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAhxK1YOQThJTrhJtmZwKnM) Youtube, 13 лекций
+*   [Васильев НКФ (Teach-in)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAhxK1YOQThJTrhJtmZwKnM), Youtube, 13 лекций
 
  <br>
 
