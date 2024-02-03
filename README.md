@@ -14,13 +14,13 @@
 
 НКФ:
 
-*   [Резвых П.В. Немецкая классическая философия](https://vk.com/wall-201515597_15) Yandex.Disk + Аудио VK, 19 лекций
-*   [Резвых П.В. Онлайн-лекции для РХГА (от Фихте до половины Шеллинга)](https://www.youtube.com/playlist?list=PLp8inyhIa81BnIh534jBdPD1_c_yl93Tv), Youtube, 8 лекций
-*   [Васильев НКФ (Teach-in)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAhxK1YOQThJTrhJtmZwKnM), Youtube, 13 лекций
+*   [Немецкая классическая философия, Резвых П.В.](https://vk.com/wall-201515597_15) Yandex.Disk + Аудио VK, 19 лекций
+*   [Онлайн-лекции для РХГА (от Фихте до половины Шеллинга), Резвых П.В.](https://www.youtube.com/playlist?list=PLp8inyhIa81BnIh534jBdPD1_c_yl93Tv), Youtube, 8 лекций
+*   [НКФ, Васильев Teach-in](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAhxK1YOQThJTrhJtmZwKnM), Youtube, 13 лекций
 
  <br>
 
-*   Козырев А.П. История русской философии (Teach-in) [Часть 1](https://www.youtube.com/playlist?list=PLcsjsqLLSfNBav1vdFJt0iGLw8_X8_bhY), [Часть 2](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAinwsjaJvZXBKVFEWrpIoD), Youtube, 13 + 15 лекций
+*   История русской философии, Козырев А.П. Teach-in [Часть 1](https://www.youtube.com/playlist?list=PLcsjsqLLSfNBav1vdFJt0iGLw8_X8_bhY), [Часть 2](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAinwsjaJvZXBKVFEWrpIoD), Youtube, 13 + 15 лекций
 *   (To be continued...)
 
 </main>
