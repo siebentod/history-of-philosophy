@@ -15,7 +15,7 @@
 НКФ:
 
 *   [Резвых П.В. Немецкая классическая философия](https://vk.com/wall-201515597_15) Yandex.Disk + Аудио VK
-*   [Резвых П.В. Онлайн-лекции для РХГА (от Фихте до половины Шеллинга)](https://www.youtube.com/playlist?list=PLp8inyhIa81BnIh534jBdPD1_c_yl93Tv) Youtube
+*   [Резвых П.В. Онлайн-лекции для РХГА (от Фихте до половины Шеллинга)](https://www.youtube.com/playlist?list=PLp8inyhIa81BnIh534jBdPD1_c_yl93Tv), Youtube
 *   [Резвых П.В. Философия Канта](https://vk.com/wall-201515597_84) Yandex.Disk + Аудио VK
 *   [Васильев НКФ (Teach-in)](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAhxK1YOQThJTrhJtmZwKnM) Youtube
 
