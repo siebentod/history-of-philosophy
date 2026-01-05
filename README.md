@@ -32,8 +32,8 @@
 
 После Аристотеля:
 
-*   [Бугай Д.В.](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAGF8trDL5rg1plyoFEZHwY) Youtube, 14 лекций (Аристотель + Эллинизм + Неоплатонизм)
-*   🔥 [Месяц С.В.: Неоплатонизм: от Плотина до Прокла](https://www.youtube.com/playlist?list=PLjRdPAc7-AcI92eQYjOcU_Lc1xQmoVmMI) Youtube, 17 лекций
+*   🔥[Бугай Д.В.](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAGF8trDL5rg1plyoFEZHwY) Youtube, 14 лекций (Аристотель + Эллинизм + Неоплатонизм)
+*   🔥[Месяц С.В.: Неоплатонизм: от Плотина до Прокла](https://www.youtube.com/playlist?list=PLjRdPAc7-AcI92eQYjOcU_Lc1xQmoVmMI) Youtube, 17 лекций
 *   [Светлов Р.В.: Позднеантичная и раннехристианская философия](https://vk.com/music/playlist/409027352_85034460_dc740346af5cc3308a) VK, 11 лекций
 
 Философия Средневековья:
@@ -44,7 +44,7 @@
 
 Философия Нового Времени:
 
-*   [Васильев В.В.](https://www.youtube.com/playlist?list=PLPXW9MnayVP4PulLi8YqJSq0eosdVgzva) Youtube, 42 видео
+*   [Васильев В.В.](https://rutracker.org/forum/viewtopic.php?t=1318014) Rutracker
 *   [Майоров Г.Г.](https://vk.com/music/playlist/370414335_85060943) VK, 16 лекций
 
 НКФ:
