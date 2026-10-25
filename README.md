@@ -1,20 +1,15 @@
 # Что читать, что слушать по истории философии
-## Учебники
+## Текст
 
-1.  В.В. Васильев, А.А. Кротов, Д.В. Бугай - [История Философии](https://msu.apoliteia.ru/) (2005 / [2020](https://rutracker.org/forum/viewtopic.php?t=6516576))
-2.  Мотрошилова Н.В. (ред.) - [История философии: Запад-Россия-Восток. В четырех книгах](https://motro.apoliteia.ru) (2000 / [2020](https://rutracker.org/forum/viewtopic.php?t=6515922))
-3.  ["Греческая философия" Канто-Спербер](https://canto-sperber.apoliteia.ru/). "История греческой философии" Гатри. "От Гегеля к Ницше" Карл Лёвит. Куно Фишер. Виндельбанд. Коплстон. "Очерк истории греческой философии" Целлер. "Западная философия от истоков до наших дней" Реале и Антисери
+### Учебники
+*   В.В. Васильев, А.А. Кротов, Д.В. Бугай - История Философии (2005/2020)
+*   Мотрошилова Н.В. (ред.) - История философии: Запад-Россия-Восток. В четырех книгах (2005/2020)
+*   "Греческая философия" Канто-Спербер. "История греческой философии" Гатри. "От Гегеля к Ницше" Карл Лёвит. Куно Фишер. Виндельбанд. Коплстон. "Очерк истории греческой философии" Целлер. "Западная философия от истоков до наших дней" Реале и Антисери и т.п.
 
-[Shadow Library Uptime Monitor (SLUM)](https://open-slum.org) Актуальные ссылки на Anna's Archive / Z-Library / Libgen
-
-## Энциклопедии
-
-*   [iphlib.ru](https://iphlib.ru) Агрегатор качественных статей из пары энциклопедий
-*   [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/). Авторитетная интернет-энциклопедия со сложными академичными статьями
-*   [Англоязычная википедия](https://en.wikipedia.org/wiki/Western_philosophy). На русскоязычной википедии также порой бывают неплохие статьи, особенно посвященные персоналиям
-*   [БРЭ Интернет-энциклопедия (bigenc.ru)](https://bigenc.ru/) Последние годы пишутся новые статьи. Некоторые качественные, некоторые очень короткие и даже уступающие википедии, в которой давно стали просто переводить статьи с других языков
-
-Вводные статьи в изданиях сочинений иногда бывают неплохими и могут заменить учебник.
+### Другое
+*   Энциклопедии: [iphlib.ru](https://iphlib.ru), [Англоязычная википедия](https://en.wikipedia.org/wiki/Western_philosophy), [БРЭ (bigenc.ru)](https://bigenc.ru/)
+*   Актуальные ссылки на Anna's Archive / Z-Library / Libgen: [Shadow Library Uptime Monitor (SLUM)](https://open-slum.org)
+*   AI: Claude для задавания вопросов и рекомендации литературы, Gemini Notebook для скимминга (напр. литературы, полученной у Claude). Поиск по статьям на sci-hub — [sci-bot](https://sci-bot.ru), также с научной литературой работает [consensus.app](https://consensus.app), [elicit](https://elicit.com) и т.п.
 
 ## Курсы лекций
 
@@ -22,20 +17,19 @@
 
 Философия Античности:
 
-*   [Лебедев А.В., «Парадигматика античной мысли»](https://www.youtube.com/playlist?list=PLRg65gfLE5N9_fchl0VKMnpv3NuK_VgBI) Youtube, 38 лекций
+*   [Лебедев А.В.: Парадигматика античной мысли](https://www.youtube.com/playlist?list=PLRg65gfLE5N9_fchl0VKMnpv3NuK_VgBI) Youtube, 38 лекций
 *   [Бугай Д.В.: Ранняя греческая философия и Платон](https://www.youtube.com/playlist?list=PLcsjsqLLSfNBl6XG2zluHXIl72rDTfQYX) Youtube, 15 лекций
-*   [Бугай Д.В.](https://vk.com/wall-201515597_379) Аудио VK + Yandex.Disk, 18 лекций
-*   [Месяц С.В.](https://vk.com/music/playlist/-125773980_84882199) VK, 18 лекций
+*   [Бугай Д.В.: История античной философии](https://vk.com/wall-201515597_379) Аудио VK + Yandex.Disk, 18 лекций
+*   [Месяц С.В.: Античная философия](https://vk.com/music/playlist/-125773980_84882199) VK, 18 лекций
 
 Аристотель:
 
 *   [Бугай Д.В.: «Метафизика» Аристотеля](https://www.youtube.com/playlist?list=PLcsjsqLLSfNCIiPnSRBlZ-xjAmjNJp6lS) Youtube, ? лекций
-*   [Месяц С.В.](https://www.youtube.com/playlist?list=PLjRdPAc7-AcLBcU6DNtsd13Q3sbrQXtev) Youtube, 9 лекций
-*   [Мельников С.А.](https://magisteria.ru/category/aristotle-intro) Magisteria, 8 лекций
+*   [Месяц С.В.: Читаем Аристотеля](https://www.youtube.com/playlist?list=PLjRdPAc7-AcLBcU6DNtsd13Q3sbrQXtev) Youtube, 9 лекций
 
 После Аристотеля:
 
-*   [Бугай Д.В.](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAGF8trDL5rg1plyoFEZHwY) Youtube, 14 лекций (Аристотель + Эллинизм + Неоплатонизм)
+*   [Бугай Д.В.: Аристотель и философия поздней античности](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAGF8trDL5rg1plyoFEZHwY) Youtube, 14 лекций (Аристотель + Эллинизм + Неоплатонизм)
 *   [Месяц С.В.: Неоплатонизм: от Плотина до Прокла](https://www.youtube.com/playlist?list=PLjRdPAc7-AcI92eQYjOcU_Lc1xQmoVmMI) Youtube, 17 лекций
 *   [Светлов Р.В.: Позднеантичная и раннехристианская философия](https://vk.com/music/playlist/409027352_85034460_dc740346af5cc3308a) VK, 11 лекций
 
@@ -61,10 +55,6 @@
 
 *   История русской философии, Козырев А.П. [Часть 1](https://www.youtube.com/playlist?list=PLcsjsqLLSfNBav1vdFJt0iGLw8_X8_bhY), [Часть 2](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAinwsjaJvZXBKVFEWrpIoD), Youtube, 13 + 15 лекций
 *   (To be continued...)
-
-## AI
-
-*   Claude/ChatGPT для задавания вопросов и рекомендации литературы, NotebookLM для скимминга (напр. литературы, полученной у Claude). Поиск по статьям на sci-hub — [Sci-bot](https://sci-bot.ru), также с научной литературой работает [consensus.app](https://consensus.app), [elicit](https://elicit.com).
 
 ## Ютуб-каналы и другое (значительно устарело)
 *   🔥 [Teach-in](https://www.youtube.com/@teachin-ru/playlists). Лекции преподавателей МГУ
