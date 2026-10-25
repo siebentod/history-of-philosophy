@@ -8,8 +8,8 @@
 
 ### Другое
 *   Энциклопедии: [iphlib.ru](https://iphlib.ru), [Англоязычная википедия](https://en.wikipedia.org/wiki/Western_philosophy), [БРЭ (bigenc.ru)](https://bigenc.ru/)
-*   Актуальные ссылки на Anna's Archive / Z-Library / Libgen: [Shadow Library Uptime Monitor (SLUM)](https://open-slum.org)
-*   AI: Claude для задавания вопросов и рекомендации литературы, Gemini Notebook для скимминга (напр. литературы, полученной у Claude). Поиск по статьям на sci-hub — [sci-bot](https://sci-bot.ru), также с научной литературой работает [consensus.app](https://consensus.app), [elicit](https://elicit.com) и т.п.
+*   Книги: Актуальные ссылки на Anna's Archive / Z-Library / Libgen [Shadow Library Uptime Monitor (SLUM)](https://open-slum.org)
+*   AI: Claude для рекомендации литературы (также он немало знает о ее содержании, благодаря обучению на пиратских библиотеках и Project Panama), Gemini Notebook для скимминга (напр. литературы, полученной у Claude). Поиск по статьям на sci-hub — [sci-bot](https://sci-bot.ru), также с научной литературой работают [consensus.app](https://consensus.app), [elicit](https://elicit.com) и т.п.
 
 ## Курсы лекций
 
